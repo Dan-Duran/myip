@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+myip-venv/
+
+# Ignore Python bytecode and __pycache__ directories
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore SQLite3 database
+db.sqlite3
+
