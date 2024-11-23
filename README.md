@@ -25,14 +25,14 @@ The home page features:
 - A welcome message.
 - A button to redirect users to the `/myip` page.
 
-![Home Page Screenshot](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)
+![Home Page Screenshot](home.png)
 
 ### Public IP Page (`/myip`)
 The `/myip` page displays:
 - The user's public IP address prominently.
 - A "Back to Home" button for easy navigation.
 
-![IP Page Screenshot](https://via.placeholder.com/800x400?text=Public+IP+Page+Screenshot)
+![IP Page Screenshot](myip.png)
 
 ---
 
